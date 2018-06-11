@@ -5,6 +5,6 @@ I made 2 docker images:
 - sysr/deb-nginx-lua -- based on Debian nginx + lua + perl (current)
 Project structure:
 deb-nginx-lua -- docker template
-Run ./build.sh for deploy start (Ubuntu/Debina only)
+Run ./build.sh for start deploy (Ubuntu/Debian only)
 
 https://github.com/DrcSysR/nginx-lua.git
